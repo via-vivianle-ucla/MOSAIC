@@ -1,0 +1,408 @@
+## PROCESSING 1 - 50 ##
+5fd67cce91f9895969c0edee | social_feed_2 | like post 2, 3
+5fd67cce91f9895969c0edee | social_feed_2 | share post 2, 3
+5fd67cce91f9895969c0edee | social_feed_2 | comment post 3: Nice
+671724d63bb81e6f00449783 | social_feed_1 | 3
+671724d63bb81e6f00449783 | social_feed_2 | 4
+5cba50bf114fa5001aac5570 | social_feed_1 | ignore
+5cba50bf114fa5001aac5570 | social_feed_2 | ignore
+67d6e0be6086654c357b5dfb | social_feed_1 | like, and comment
+67d6e0be6086654c357b5dfb | social_feed_2 | like
+6679c3a62d9db76da6ada94e | social_feed_1 | I don't understand any of this.
+6679c3a62d9db76da6ada94e | social_feed_2 | I don't understand any of this.
+67aa75039a0fc208035cdd01 | social_feed_1 | ill call uyou
+67aa75039a0fc208035cdd01 | social_feed_2 | load
+6517301b6d21d25e19c7e501 | social_feed_1 | -ignore-post: 1-10 | unknown-list-action
+6517301b6d21d25e19c7e501 | social_feed_2 | #NAME?
+5d100e740277ff00152f7562 | social_feed_1 | 1
+5d100e740277ff00152f7562 | social_feed_2 | 1
+66b4d2ee1ac8c5e9060a6930 | social_feed_2 | ignore
+67d750ee1b27f207a98703a5 | social_feed_1 | 11, 12, 14, 24, 26
+67d750ee1b27f207a98703a5 | social_feed_2 | 11, 12, 13, 14, 15, 16, 19, 24, 26, 30
+667dff584b72be8e8cf6b196 | social_feed_1 | ignore
+671ea8fb61ba3a4c1d13ecd4 | social_feed_1 | 2
+671ea8fb61ba3a4c1d13ecd4 | social_feed_2 | like post
+616cf9ae07c1c6bd05d95beb | social_feed_1 | 0
+616cf9ae07c1c6bd05d95beb | social_feed_2 | 0
+67c35bed28161edad1829850 | social_feed_1 | ignore
+67c35bed28161edad1829850 | social_feed_2 | content
+5e3079c558a8c8073fdb1ff9 | social_feed_1 | I wouldn’t interact, I don’t interact usually
+5e3079c558a8c8073fdb1ff9 | social_feed_2 | Keep this format, I would not interact
+667433338e6cc9e53c828774 | social_feed_1 | like
+59d1e366faf42e00012b6c1c | social_feed_1 | Ignore
+59d1e366faf42e00012b6c1c | social_feed_2 | Ignore
+5bb5473f9e00ca0001893a4c | social_feed_1 | ignore
+5bb5473f9e00ca0001893a4c | social_feed_2 | ignore
+6629497a938b0963356f7002 | social_feed_1 | action: 0, target: 0, content 0 | unknown-list-action
+6629497a938b0963356f7002 | social_feed_2 | action 0, target 0, content 0
+66464cb5fa68d7813581f103 | social_feed_1 | ignore
+66464cb5fa68d7813581f103 | social_feed_2 | ignore
+67da124f290b261d43b4461a | social_feed_2 | Post 11
+67da124f290b261d43b4461a | social_feed_2 | Post 14
+67da124f290b261d43b4461a | social_feed_2 | Post 20
+67da124f290b261d43b4461a | social_feed_2 | Post Containing Misinformation:
+67da124f290b261d43b4461a | social_feed_2 | post_id: 20 | unknown-list-action
+67da124f290b261d43b4461a | social_feed_2 | “Wisconsin had more votes than registered voters in the 2020 election: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.”
+67da124f290b261d43b4461a | social_feed_2 | Why it is False:
+67da124f290b261d43b4461a | social_feed_2 | This claim has been widely debunked by multiple reliable sources, including the Wisconsin Elections Commission, fact-checkers at Reuters, AP, and PolitiFact, and independent investigations. In the 2020 election, the number of ballots cast in Wisconsin did not exceed the number of registered voters. Some confusion arose because Wisconsin allows same-day voter registration, which increases the registered voter count after Election Day, but all votes cast were valid and accounted for.
+67da124f290b261d43b4461a | social_feed_2 | Suggested Correction:
+67da124f290b261d43b4461a | social_feed_2 | "Wisconsin’s 2020 presidential election had high voter turnout, but the number of votes cast did not exceed the number of registered voters. Claims of vote totals exceeding registration have been debunked by official records and fact-checkers."
+6030ac6fe9ee913af8f49a8f | social_feed_1 | ignore
+6030ac6fe9ee913af8f49a8f | social_feed_2 | ignore
+5d7ff85ffec5620017b07c40 | social_feed_1 | 5
+5d7ff85ffec5620017b07c40 | social_feed_2 | 5
+67e3126f2bfefc992d4dace9 | social_feed_1 | 1 2 3
+67e3126f2bfefc992d4dace9 | social_feed_2 | action target content
+67887ed5271759466f1ed65a | social_feed_1 | add note: most are advertisements except for 10
+67887ed5271759466f1ed65a | social_feed_2 | add note: everything seems interesting but some seem like they can be a cause of conflict in comments
+669a92a7634bd2faf6fec077 | social_feed_1 | 2,3,4
+669a92a7634bd2faf6fec077 | social_feed_2 | 2,3,4
+## PROCESSING 51-100 ##
+670c06bb7926d2525a7a7755 | social_feed_1 | post_id: 4 - Like - Share Post | unknown-list-action
+670c06bb7926d2525a7a7755 | social_feed_2 | post_id: 20 - like - share - Comment: " I knew it" | unknown-list-action
+673b77b11f79e3de7bc5d44f | social_feed_1 | 2
+6643a8837540ee80f2d5be45 | social_feed_1 | ignore
+6643a8837540ee80f2d5be45 | social_feed_2 | ignore
+67e367400bcbb8a5e7da0f5c | social_feed_1 | Like post
+67e367400bcbb8a5e7da0f5c | social_feed_2 | Ignore,
+5f6388bf9ae5ad07ba1a0173 | social_feed_1 | ignore only
+5f6388bf9ae5ad07ba1a0173 | social_feed_2 | ignore
+5d42486206811e001ada5b4b | social_feed_1 | i would read but not share this content on social media because it saying it has information thats false in it
+5d42486206811e001ada5b4b | social_feed_2 | i would ignore this and not read it because it contains misinformation
+67d95b52be97905a048845c7 | social_feed_1 | 1
+67d95b52be97905a048845c7 | social_feed_2 | 1
+660af34a8c1982e812803640 | social_feed_1 | content
+660af34a8c1982e812803640 | social_feed_2 | like
+6697db687b72c375cbe3cf3f | social_feed_1 | I read social media posts but do not like, comment, share, etc.  None of these would warrant my time anyway.  These weren't news ... they were ads and sensationalism.
+6697db687b72c375cbe3cf3f | social_feed_2 | These were more interesting but I still wouldn't respond to them.
+67ecca121e3a43c36774dd06 | social_feed_2 | royal
+67e926ff4b842f35ff1e9e83 | social_feed_1 | This claim about vaccines is misleading; the effectiveness of vaccines against Omicron has been studied and supported by health authorities.
+67e926ff4b842f35ff1e9e83 | social_feed_2 | The claim that Wisconsin had more votes than registered voters is misleading; the issue was with voter roll discrepancies, not fraud.
+67db6f15940ed1d6283b5d9f | social_feed_2 | ike-post: 11, 12, 14, 21, 26, 30 | unknown-list-action
+672c2f23e4984e3a43bf3525 | social_feed_2 | 3
+67793c3fcba4043f54daada9 | social_feed_1 | Promoting educational content for kids is so important—great to see this being pushed!
+67793c3fcba4043f54daada9 | social_feed_2 | COVID-19 vaccines are not considered experimental, and life insurance policies are not voided due to vaccination status.
+676304145bbe20d1fd5d653c | social_feed_1 | ignore
+676304145bbe20d1fd5d653c | social_feed_2 | ignore
+65ee4106d4b632b7fb7a3f79 | social_feed_1 | ignore
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | comment-post:
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | 11: Myleene Klass has shown so much strength. Raising awareness around miscarriage is so important. | unknown-list-action
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | 12: Honoring their daughters by creating change—deeply moving and vital work. | unknown-list-action
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | 14: Glad to see the Post Office campaigners recognized. Their persistence is inspiring. | unknown-list-action
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | 26: Fascinating look into how diplomacy shaped today's global economy. Carter’s role deserves more attention. | unknown-list-action
+6633bd3bc5ec5e52e25592a4 | social_feed_2 | 30: Wallace & Gromit fans unite! Excited to see the new film’s international touch! | unknown-list-action
+678799120a3f198fe9981b65 | social_feed_1 | Comment- post:2, the watch is top notch
+678799120a3f198fe9981b65 | social_feed_1 | add- note:9: the article is getting viral
+678799120a3f198fe9981b65 | social_feed_2 | Like- post: 13, 14
+678799120a3f198fe9981b65 | social_feed_2 | Share- post: 11, 15,16
+678799120a3f198fe9981b65 | social_feed_2 | Comment- post : 29, life insurance doesn't cover people that died with covid 19
+678799120a3f198fe9981b65 | social_feed_2 | add- note : 27, not sure the information is correr
+67c5f7da64afd036b5ef1301 | social_feed_1 | ignore
+67c5f7da64afd036b5ef1301 | social_feed_2 | ignore
+# 101-200 #
+
+64275e53f51a5ed4f6b7d019 | social_feed_2 | Ignore
+67ce1feb43ee9200186c94b3 | social_feed_1 | 5
+67ce1feb43ee9200186c94b3 | social_feed_2 | 5
+64275e53f51a5ed4f6b7d019 | social_feed_2 | Ignore
+67ce1feb43ee9200186c94b3 | social_feed_1 | 5
+67ce1feb43ee9200186c94b3 | social_feed_2 | 5
+66c62d55724d29c2c0037a44 | social_feed_2 | - rate-note: 26: The community note about verifying historical claims with credible sources is marked as "Helpful".
+66c62d55724d29c2c0037a44 | social_feed_2 | - ignore-post: 1, 17, 18, 21, 22, 23, 27, 30
+67e3b1c207ad42f6f898e428 | social_feed_1 | Added note to post 29: False
+67edf0b51b5bd671db6a9372 | social_feed_1 | ignore posts 1,2,3,7,8,9,6,5
+67edf0b51b5bd671db6a9372 | social_feed_2 | ignore 11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,30
+62eaf1d2015ba1448aa273c4 | social_feed_1 | ignore
+62eaf1d2015ba1448aa273c4 | social_feed_2 | ignore
+655f95ffd90905e27c938a49 | social_feed_1 | - ignore: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+5ae7f99bd5ec5e000175f097 | social_feed_1 | ignore
+5ae7f99bd5ec5e000175f097 | social_feed_2 | ignore
+6674d20dd828915161031f65 | social_feed_1 | 5
+6674d20dd828915161031f65 | social_feed_2 | 1
+64d50c4b3a44318d98f4f5b2 | social_feed_1 | ignore all
+64d50c4b3a44318d98f4f5b2 | social_feed_2 | ignore all
+67fd00529ffe943e3d2c2c17 | social_feed_1 | 2
+67fd00529ffe943e3d2c2c17 | social_feed_2 | 3
+674f22af21d6a0d92c657422 | social_feed_2 | sare-post:27.29,19,20,26 | unknown-list-action
+6754c632477f9899a74314fd | social_feed_1 | ignore 1-10
+6754c632477f9899a74314fd | social_feed_2 | ignore 11-30
+67acb9892d24db4d61a856f5 | social_feed_2 | like post 1. share post 2, post 3 very interesting! post 13 contains misinfo
+67df19d8dfaa291bdd177c93 | social_feed_1 | Add note: none
+67df19d8dfaa291bdd177c93 | social_feed_2 | Note: none | unknown-list-action
+5d6376ec7e447f001c971315 | social_feed_1 | Ignore all
+5d6376ec7e447f001c971315 | social_feed_2 | Ignore all
+60ff50ad8ad970df506a9c6b | social_feed_1 | like-posts: 0 | unknown-list-action
+60ff50ad8ad970df506a9c6b | social_feed_1 | share-posts: 0 | unknown-list-action
+60ff50ad8ad970df506a9c6b | social_feed_2 | like-posts: 11, 12, 15 | unknown-list-action
+60ff50ad8ad970df506a9c6b | social_feed_2 | share-posts: 0 | unknown-list-action
+678d96b032eae41a56f4f55a | social_feed_1 | I feel the covid vaccines haven't been tested enough to be able to trust them
+678d96b032eae41a56f4f55a | social_feed_2 | Life insurance should cover the deaths of people who die from the covid vaccine.
+6298ec5a536b0a7876579a22 | social_feed_1 | ignore 7,9
+67e9c186f27697843d6e9ee7 | social_feed_1 | share-post
+67e9c186f27697843d6e9ee7 | social_feed_2 | share-post
+65847ecf0896ca006d2c00b7 | social_feed_1 | ike-post: 4, 5 | unknown-list-action
+67cb5baef51d73572cb490ae | social_feed_1 | ignore
+672eb611e409e9fe3b35547a | social_feed_1 | ignore
+672eb611e409e9fe3b35547a | social_feed_2 | like
+588e02b13326830001bc29cd | social_feed_1 | I don't interact with social media unless it's something my friends post. Reading all of those felt like Orwell's 1984. I don't fangirl celebrities or politicians or trust much of anything on social media.
+588e02b13326830001bc29cd | social_feed_2 | All of them looked like attention grabbing click bait including the fact checking. I wouldn't interact with any of them in any way.
+66d87f47973160be7e3f8e3b | social_feed_1 | ignore
+66d87f47973160be7e3f8e3b | social_feed_2 | ignore
+67f01887c5d3ec373eef1c01 | social_feed_2 | Comment post 4: I like this
+67b8d857233ab320f8b2879e | social_feed_1 | Posts 20 and 29 seem to spread misinformation, so adding notes to clarify is essential.
+67b8d857233ab320f8b2879e | social_feed_1 | - Posts 11, 12, 14, and 16 seem like worthy content to engage with through likes.
+67b8d857233ab320f8b2879e | social_feed_1 | - Posts 22 and 26 have valuable content worth sharing.
+67b8d857233ab320f8b2879e | social_feed_1 | - Post 21 is a heartfelt tribute, and a comment shows empathy.
+67b8d857233ab320f8b2879e | social_feed_1 | - Post 5's article discussion might benefit from additional context via a community note.
+6737ec89389ac9b1b64baae5 | social_feed_1 | ignore all
+6737ec89389ac9b1b64baae5 | social_feed_2 | ignore all
+67cf2180229822434560c6a2 | social_feed_1 | 2
+67cf2180229822434560c6a2 | social_feed_2 | 3
+67a66096bc5b99e5261aefc5 | social_feed_1 | action
+67a66096bc5b99e5261aefc5 | social_feed_2 | target
+675b5a018aee2cdaa845806b | social_feed_2 | Life insurance does pay out regardless of Covid-19.  This is misinformation
+67e4e5e1a1ac540ea5b20f8f | social_feed_1 | 7: I've heard good things about Eight Sleep—anyone tried it? | unknown-list-action
+67e4e5e1a1ac540ea5b20f8f | social_feed_2 | 30: Wallace & Gromit never fails to charm—excited to see how Netflix handles the humor! | unknown-list-action
+67e4e5e1a1ac540ea5b20f8f | social_feed_2 | 29: This is misinformation. COVID-19 vaccines are not experimental, and life insurance companies do not deny claims based on vaccination status. | unknown-list-action
+67ee875cf41fee35fe817ad9 | social_feed_2 | lie-post:23, 24, 25 | unknown-list-action
+558ffe16fdf99b3f7aada34d | social_feed_1 | Ignore
+558ffe16fdf99b3f7aada34d | social_feed_2 | Ignore
+67e971fe972a4be474579d18 | social_feed_1 | Always be mindful of the information you engage with, and don’t hesitate to contribute positively! #CommunityEngagement #FactCheck #SocialMediaResponsibility"
+67e971fe972a4be474579d18 | social_feed_2 | The nostalgic charm of Wallace & Gromit never fades, looking forward to seeing the updates! #BritishHumor
+67f0eee45788cabdae58ed24 | social_feed_1 | ignore
+67f0eee45788cabdae58ed24 | social_feed_2 | Ignore
+660d94c2c3133c25e6eba033 | social_feed_1 | add note: none
+67d8f23eddf3649101cf43b0 | social_feed_1 | After reviewing this social media feed carefully, here's how I would choose to interact with it:
+67d8f23eddf3649101cf43b0 | social_feed_2 | Looking at the payoff table for the coffee shop purchase, I need to craft a strategic initial proposal that balances value across the three categories. Let me analyze this carefully.
+67d8f23eddf3649101cf43b0 | social_feed_2 | For an optimal initial offer, I recommend:
+67d8f23eddf3649101cf43b0 | social_feed_2 | Transfer Fee: M (3600 points)
+67d8f23eddf3649101cf43b0 | social_feed_2 | Coffee Beans: N (3250 points)
+67d8f23eddf3649101cf43b0 | social_feed_2 | Furniture: O (1400 points) | unknown-list-action
+67d8f23eddf3649101cf43b0 | social_feed_2 | This proposal strikes a thoughtful balance between showing serious interest while leaving room for negotiation. Here's my reasoning:
+67d8f23eddf3649101cf43b0 | social_feed_2 | The Transfer Fee category has the highest point values overall, so I've selected a mid-to-high option (M) that demonstrates commitment without immediately jumping to the highest tiers. This shows you're willing to pay a substantial transfer fee while maintaining negotiating leverage.
+67d8f23eddf3649101cf43b0 | social_feed_2 | For Coffee Beans, option N represents a strong quality level without maxing out. Coffee quality is fundamental to the shop's future success, so investing substantially here makes strategic sense while still leaving room to upgrade if negotiations require.
+67d8f23eddf3649101cf43b0 | social_feed_2 | For Furniture, I've chosen option O, which is also in the upper mid-range. Quality furniture contributes to atmosphere and customer experience, but it can be upgraded over time, making it reasonable to start with a solid but not maximum offering.
+67d8f23eddf3649101cf43b0 | social_feed_2 | For the discussion with the seller, I'd suggest asking:
+67d8f23eddf3649101cf43b0 | social_feed_2 | What specific equipment is included with the furniture package?
+67d8f23eddf3649101cf43b0 | social_feed_2 | How recently were the coffee machines serviced?
+67d8f23eddf3649101cf43b0 | social_feed_2 | Do you have records of monthly revenue and customer traffic?
+67d8f23eddf3649101cf43b0 | social_feed_2 | Are there any existing supplier relationships that would transfer with ownership?
+67d8f23eddf3649101cf43b0 | social_feed_2 | What's the current lease situation and are there any pending renovations required?
+66d257bc5bc135b6cf963f02 | social_feed_2 | ike-post: 11, 12, 13, 14, 15, 19, 21, 24, 26, 30 | unknown-list-action
+67511ed5a097322f28dadcef | social_feed_1 | comment-post:
+67511ed5a097322f28dadcef | social_feed_2 | comment-post:
+6738cce251a1a217e308d017 | social_feed_1 | Misinformation: 5 | unknown-list-action
+6738cce251a1a217e308d017 | social_feed_1 | Just ignore post: 10,6, 9, 8, 4, 1 and 2 just
+6738cce251a1a217e308d017 | social_feed_1 | Don’t interest me
+6738cce251a1a217e308d017 | social_feed_2 | A CEO Im  confused? Is this true?
+6738cce251a1a217e308d017 | social_feed_2 | Uninterested- 30 not into
+6738cce251a1a217e308d017 | social_feed_2 | British shows, 25,24 not interested
+6738cce251a1a217e308d017 | social_feed_2 | Burning should respectfully not be shown on TV
+67e5631a65e07f08fb76eac0 | social_feed_1 | ike: 1, 2, 3, 7, 8, 9 | unknown-list-action
+67cc89b714c44c3c7d4756f5 | social_feed_1 | comment post 9,3
+67cc89b714c44c3c7d4756f5 | social_feed_1 | add note: There's no proof of this claim
+67cc89b714c44c3c7d4756f5 | social_feed_2 | comment post:25,29,27
+66647dac6b4645950f758d55 | social_feed_1 | share post
+66647dac6b4645950f758d55 | social_feed_2 | share post
+67f241efa2759404677d6380 | social_feed_1 | other: 4 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | UCLA  Demographics and Beliefs Survey
+67d10200d80c3405f93783de | social_feed_2 | 67d10200d80c3405f93783de@auth.prolific.com Switch account
+67d10200d80c3405f93783de | social_feed_2 | Not shared
+67d10200d80c3405f93783de | social_feed_2 | * Indicates required question
+67d10200d80c3405f93783de | social_feed_2 | Social Media Feed Sample Response
+67d10200d80c3405f93783de | social_feed_2 | You will see some sample social media feeds, and please show how you'd react to the feed as if you were browsing on an actual social media such as X or Facebook. These articles are truncated due to space limitation. Some content below may be AI-generated.
+67d10200d80c3405f93783de | social_feed_2 | Here is a hypothetical social media feed. Read each post carefully and then follow the instruction at the end.
+67d10200d80c3405f93783de | social_feed_2 | post_id is an identifier for the post
+67d10200d80c3405f93783de | social_feed_2 | Your feed:
+67d10200d80c3405f93783de | social_feed_2 | --------------------------------
+67d10200d80c3405f93783de | social_feed_2 | post_id: 1 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | LG slapped a 27-inch touchscreen on its latest microwave: LG just unveiled its latest microwave ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens! This is a touchscreen display that’s...
+67d10200d80c3405f93783de | social_feed_2 | post_id: 2 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | The Apple Watch Series 10 is back down to its Black Friday price: The Apple Watch Series 10 is down to its Black Friday price. You can pick one up for $329 via Amazon, which is a discount of $70 and nearly 20 percent off. Even better? This deal is available for multiple band colors, including jet black, rose gold and more … [+678 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 3 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | The Morning After: The 12 best gadgets we reviewed in 2024: As 2025 approaches, we’re reviewing all our… reviews. Yes, everything we poked, prodded, and critiqued this year. Alongside inevitable smartphone and laptop upgrades (it was a particularly strong year for Pixel phones, while Apple continues to offer a premium…  [+678 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 4 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | The Year Democrats Lost the Internet: Democratic digital strategists and creators argue that the party’s influencer outreach was too little, too late—and that without a coherent message, even the best strategy won't matter. Perhaps in part due to this strategy of exclusion, the audiences Republicans reached were far more engaged with the content than Democratic viewers. A recent study from People First and Infegy found … [+2197 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 5 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | The Most Dangerous People on the Internet in 2024: From Elon Musk and Donald Trump to state-sponsored hackers and crypto scammers, this was the year the online agents of chaos gained ground. For its entire existence as a global medium, the internet's evolution has been caught in a tug of war, pulled by opposing forces: on one side, moderation and control; on the other, disruption and ana… [+13341 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 6 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | In 2024, Fandom Conquered the World: From MAGA to Moo Deng, fans had more power in 2024 than ever before. On September 28, Bowen Yang performed one of 2024s most resonant pieces of political theater while dressed as a pygmy hippo. Yang was behind the desk on Saturday Night Lives Weekend Update segment, … [+2732 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 7 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Eight Sleep Pod 4 Review: Sleep Better: This smart temperature-control mattress cover helps you stay cooler, or cozier, to get a better night's sleep. Finding the right temperature in bed can be tricky. Feeling too hot or cold makes it tough to drop off and can wake you prematurely. Since our mental and physical health depends on sleep, thats a pro… [+2139 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 8 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Apple TV Plus is free to stream this weekend: Apple is offering its Apple TV Plus streaming service for free from January 4th through 5th. Apple TV Plus is free to stream this weekend. Apple TV Plus is free to stream this weekend/ Its a chance to binge Severance and other shows before renewing an Apple TV subscription to watch upcomi… [+1372 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 9 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Last Chance This Year to Stack Instant Trade-In Bucks With Samsung’s Sale on the Galaxy Buds3 Pro: Add up to $50 of trade-in credit to the $60 off deal and Samsung's best earbuds can be yours for as little as $140. The Christmas shopping season’s come and gone, but maybe you lucked out and got a little bit of the green stuff in your stocking and you’re thinking about a little splurge on yourself. Samsung’s stat… [+2409 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 10 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | COVID-19 vaccines and boosters are useless against omicron variant: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus.
+67d10200d80c3405f93783de | social_feed_2 | --------------------------------
+67d10200d80c3405f93783de | social_feed_2 | INSTRUCTION:
+67d10200d80c3405f93783de | social_feed_2 | Based on the content you see, choose how to interact with the feed.
+67d10200d80c3405f93783de | social_feed_2 | Pay attention to both official fact-check verdicts and community notes on posts (if any).
+67d10200d80c3405f93783de | social_feed_2 | You can add your own community notes and rate existing ones, while also considering official fact-checks.
+67d10200d80c3405f93783de | social_feed_2 | Valid actions:
+67d10200d80c3405f93783de | social_feed_2 | - like: [post_id]
+67d10200d80c3405f93783de | social_feed_2 | - share: [post_id]
+67d10200d80c3405f93783de | social_feed_2 | - comment: [post_id] with [content], limited to 250 characters
+67d10200d80c3405f93783de | social_feed_2 | - add-note: [post_id] with [content]: Add a community note to provide context or fact-checking
+67d10200d80c3405f93783de | social_feed_2 | - ignore: only
+67d10200d80c3405f93783de | social_feed_2 | Respond with a list of actions. For each action, keep this format- "action" : "target" : "content"
+67d10200d80c3405f93783de | social_feed_2 | Example response:
+67d10200d80c3405f93783de | social_feed_2 | *
+67d10200d80c3405f93783de | social_feed_2 | Here is another hypothetical social media feed (this time with 20 posts). Read each post and then follow the instruction at the end.
+67d10200d80c3405f93783de | social_feed_2 | Your feed:
+67d10200d80c3405f93783de | social_feed_2 | --------------------------------
+67d10200d80c3405f93783de | social_feed_2 | post_id: 11 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | 'Miscarriage not dark secret to hide' says Klass as she becomes MBE: Klass, who has suffered four miscarriages, has spoken about the psychological effects of baby loss. Klass has spoken openly about the impact of suffering four miscarriages
+67d10200d80c3405f93783de | social_feed_2 | Myleene Klass has been recognised in this year's New Year Honours for services to women's health, miscarriage awareness and to… [+3508 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 12 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Parents of women killed by ex-boyfriends receive honours: Carole Gould and Julie Devey co-founded a group supporting families affected by male violence. Two women whose daughters were murdered by their ex-partners have said a "bereaved mother is not to be messed with" after receiving honours for their campaign to strengthen domestic violence laws… [+3005 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 13 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | YouTube urged to promote 'high-quality' children's TV: Culture Secretary Lisa Nandy says children are missing out on educational TV because of how online platforms operate. The government has urged video platforms like YouTube to feature "high-quality" children's content more prominently on their websites. Culture Secretary Lisa Nandy warned young people are less likel… [+2493 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 14 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Post Office campaigners get OBEs and say it will 'empower' fight: Four former sub-postmasters are made OBEs in the New Year Honours list. Former sub-postmasters turned campaigners in the Post Office scandal have said they will fight on after being made OBEs in the New Year Honours list… [+3086 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 15 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Birmingham Six member Paddy Hill dies aged 80: Paddy Hill was one of six men wrongly convicted of the 1974 Birmingham pub bombings. Paddy Hill, one of six men wrongly convicted of the 1974 Birmingham pub bombings, has died aged 80. In a post on Facebook, the Miscarriages of Justice Organisation (MOJO) said Mr Hill died peacefull… [+938 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 16 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Lyon strikes to give Australia Test win: Nathan Lyon traps India's Mohammed Siraj lbw to give Australia a 184-run win in the fourth Test and give the hosts a 2-1 lead in the series. Watch as Nathan Lyon traps India's Mohammed Siraj lbw to give Australia a 184-run win in the fourth Test at the Melbourne Cricket Ground and give the hosts a 2-1 lead going into the final match in … [+89 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 17 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Disruption at Gatwick continues for fourth day: The airport said that 20 flights have been cancelled throughout the day on Monday. Disruption is continuing at Gatwick Airport for a fourth day after heavy fog affected flights in one of the busiest periods of the year.
+67d10200d80c3405f93783de | social_feed_2 | Some restrictions due to adverse weather remain in place, …
+67d10200d80c3405f93783de | social_feed_2 | post_id: 18 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Cliff collapse blocks beach on Jurassic Coast: The beach between West Bay and Freshwater is blocked following the cliff collapse. A rockfall has blocked a section of beach on Dorset's Jurassic Coast.
+67d10200d80c3405f93783de | social_feed_2 | The collapse means there is no access between Freshwater and West Bay where the clifftop coast path is already closed. Rockfall… [+699 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 19 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | California police rescue man trapped inside burning trailer: The man had minor injuries from a fire that was sparked by a portable propane heater in the home. On Monday, the Grover Beach Police Department in California released dramatic body camera footage of a man being rescued from inside a burning trailer.
+67d10200d80c3405f93783de | social_feed_2 | The cause of the fire was determined to be fr… [+368 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 20 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Wisconsin had more votes than registered voters in the 2020 election: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.
+67d10200d80c3405f93783de | social_feed_2 | post_id: 21 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Honoring the Inspiring Sci-Fi, Horror, and Fantasy Luminaries Lost in 2024: io9 pays tribute to departed creative who left a mark on genre entertainment. In io9’s annual “in memoriam” post, we pay tribute to actors, directors, artists, composers, writers, creators, and other icons in the realms of horror, sci-fi, and fantasy that have passed...
+67d10200d80c3405f93783de | social_feed_2 | FACT CHECK BY AI: UNVERIFIED (Confidence: 50%)
+67d10200d80c3405f93783de | social_feed_2 | Explanation: The post refers to an 'in memoriam' tribute for individuals in the sci-fi, horror, and fantasy genres who have passed away in 2024. As of my last update in October 2023, I cannot verify events or publications that are claimed to occur beyond this date. Thus, any information about tributes or deaths occurring specifically in 2024 is outside my current knowledge scope. | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Comments:
+67d10200d80c3405f93783de | social_feed_2 | - It's always sad to lose such creative minds. Their contributions have helped shape incredible narratives in the sci-fi and fantasy genres. (by user-866123)
+67d10200d80c3405f93783de | social_feed_2 | - Honoring creatives is so important! Their work shapes our imagination & culture, inspiring many. Let's continue celebrating their legacy and creativity in sci-fi, horror & fantasy. (by user-f1a08a)
+67d10200d80c3405f93783de | social_feed_2 | - Paying tribute to these creative minds is such a beautiful way of honoring their legacy. May their stories inspire more imaginative journeys within sci-fi, fantasy & horror. (by user-8d766d)
+67d10200d80c3405f93783de | social_feed_2 | post_id: 22 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | This Samsung T9 Portable SSD at 40% Off Is the Perfect Tech Gift for the New Year: Add some much-needed space to your computer and never have to delete files again. How many times have you wished you had some extra space to play with on your computer, but had to delete additional files instead? If you’ve been there, you know how frustrating it can be. Their T9 … [+2185 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 23 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Feds Crack Down on Luigi Mangione Bets on Gambling Sites: If you want to bet on the fate of the UnitedHealthcare assassin, you’ll have to do it outside of America (or through a VPN) You cant legally put money on the fate of Luigi Mangione in the United States. Kalshi, one of the only legal prediction markets, pulled all bets related to the UnitedHealthcare assassin in the middle… [+3233 chars]
+67d10200d80c3405f93783de | social_feed_2 | Comments:
+67d10200d80c3405f93783de | social_feed_2 | - Understanding legal constraints ensures informed involvement in markets. This highlights the need for transparency and regulations in gambling platforms globally. (by user-63d84c)
+67d10200d80c3405f93783de | social_feed_2 | post_id: 24 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Gareth Southgate, Stephen Fry and Olympians lead New Year Honours list: Keely Hodgkinson, actress Sarah Lancashire and Post Office scandal campaigners are also recognised. Gareth Southgate (left) and Stephen Fry (right) are made knights while Keely Hodgkinson (centre) becomes a MBE
+67d10200d80c3405f93783de | social_feed_2 | Former England football manager Gareth Southgate and actor Stephen Fry have both been k… [+10061 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 25 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Sadiq Khan and Emily Thornberry among politicians on honours list: The senior Labour figures are among a number of politicians who have received honours in the latest list. Senior Labour MP Emily Thornberry and Sadiq Khan, the mayor of London, are among a number of politicians named in the New Year Honours list.
+67d10200d80c3405f93783de | social_feed_2 | Thornberry said she was "both honoured and surprised" to … [+2190 chars]
+67d10200d80c3405f93783de | social_feed_2 | Comments:
+67d10200d80c3405f93783de | social_feed_2 | - Congratulations to Sadiq Khan and Emily Thornberry on the honors! It's great to see their contributions recognized. 😊🎉 #HonorsList ✨. (by user-40430d)
+67d10200d80c3405f93783de | social_feed_2 | post_id: 26 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | 'It was destiny': How Jimmy Carter embraced China and changed history: It set the stage for China's economic ascent - and its rivalry with the US. Carter and Deng, seen hugging in 1987 in Beijing, had a close relationship
+67d10200d80c3405f93783de | social_feed_2 | On a bright January morning in 1979, then US president Jimmy Carter greeted a historic guest in Washington: Deng Xiaoping, … [+11387 chars]
+67d10200d80c3405f93783de | social_feed_2 | FACT CHECK BY AI: TRUE (Confidence: 95%)
+67d10200d80c3405f93783de | social_feed_2 | Explanation: The post claims that Jimmy Carter's engagement with China in 1979 set the stage for China's economic ascent and its rivalry with the US. This is a well-documented historical fact. | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Comments:
+67d10200d80c3405f93783de | social_feed_2 | - 'This historical perspective on US-China relations offers valuable insight!' Understanding past leaders' roles in shaping global dynamics is fascinating. 🌏🤝 #HistoryBuff 😊✨. (by user-22b4e6)
+67d10200d80c3405f93783de | social_feed_2 | - 'This historical perspective on US-China relations is fascinating! Learning how leaders shaped global dynamics offers much insight. 🌏🤝 #HistoryMatters 😊✨.' (by user-4c900c)
+67d10200d80c3405f93783de | social_feed_2 | Community Notes:
+67d10200d80c3405f93783de | social_feed_2 | •  'It's important to approach historical claims with verification from credible sources before drawing conclusions.' History provides context but must be accurately reported! 🌍📖✨. (Helpful: 1, Not Helpful: 0)
+67d10200d80c3405f93783de | social_feed_2 | post_id: 27 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Welsh Ambulance Service declares critical incident: More than 340 calls were waiting to be answered when the critical incident was declared. The Welsh Ambulance Trust has declared a critical incident because of increased demand across the 999 service and extensive hospital handover delays. It said more than 340 calls were waiting to be a… [+883 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 28 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Southgate knighted in New Year Honours - full list: Former England manager Gareth Southgate has been awarded a knighthood in the New Year Honours list. Emma Finucane (Olympic cyclist), for services to cycling
+67d10200d80c3405f93783de | social_feed_2 | Sabrina Fortune (Paralympic athlete), for services to athletics [+1786 chars]
+67d10200d80c3405f93783de | social_feed_2 | post_id: 29 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | Life insurance does not cover the deaths of people who died after receiving a COVID-19 vaccine: Life insurance companies won’t pay out benefits to anyone who dies after receiving a COVID-19 vaccine because the vaccines are considered experimental.
+67d10200d80c3405f93783de | social_feed_2 | post_id: 30 | unknown-list-action
+67d10200d80c3405f93783de | social_feed_2 | The British Expression That Baffled Netflix in Wallace & Gromit: Vengeance Most Fowl: At least this one stayed in in the new Aardman movie, after the Anglo-US relations got things sorted. Wallace &amp;Gromit has always had a global appeal, but Vengeance Most Fowl‘s unique position as the first in the series made with a bit international backing in mind thanks to Netflix has meant that… [+1781 chars]
+67d10200d80c3405f93783de | social_feed_2 | Comments:
+67d10200d80c3405f93783de | social_feed_2 | - Wallace & Gromit always brings nostalgic joy! Can't wait to see how Netflix enhances the classic British humor. 🎥🐶🧀 #Anticipation 😊✨. (by user-5a43d4)
+67d10200d80c3405f93783de | social_feed_2 | - I love Wallace & Gromit! Can't wait for official updates on 'Vengeance Most Fowl'—hope it's going to have that signature humor. #BritishHumor 🎥🐶🧀😊✨. (by user-c9d9d6)
+67d10200d80c3405f93783de | social_feed_2 | - Wallace & Gromit always brings nostalgic joy! Can't wait to see how Netflix enhances the classic British humor. 🎥🐶🧀 #Anticipation 😊✨. (by user-23fdb1)
+67d10200d80c3405f93783de | social_feed_2 | --------------------------------
+67d10200d80c3405f93783de | social_feed_2 | INSTRUCTION:
+67d10200d80c3405f93783de | social_feed_2 | Based on the content you see, choose how to interact with the feed.
+67d10200d80c3405f93783de | social_feed_2 | Pay attention to both official fact-check verdicts and community notes on posts (if any).
+67d10200d80c3405f93783de | social_feed_2 | You can add your own community notes and rate existing ones, while also considering official fact-checks.
+67d10200d80c3405f93783de | social_feed_2 | Valid actions:
+67d10200d80c3405f93783de | social_feed_2 | - like: [post_id]
+67d10200d80c3405f93783de | social_feed_2 | - share: [post_id]
+67d10200d80c3405f93783de | social_feed_2 | - comment: [post_id] with [content], limited to 250 characters
+67d10200d80c3405f93783de | social_feed_2 | - add-note: [post_id] with [content]: Add a community note to provide context or fact-checking
+67d10200d80c3405f93783de | social_feed_2 | - ignore
+67d10200d80c3405f93783de | social_feed_2 | Respond with a list of actions. For each action, keep this format- "action" : "target" : "content"
+67d10200d80c3405f93783de | social_feed_2 | Example response:
+67d10200d80c3405f93783de | social_feed_2 | *
+67d10200d80c3405f93783de | social_feed_2 | Never submit passwords through Google Forms.
+67d10200d80c3405f93783de | social_feed_2 | This form was created inside of Google Apps for UCLA.
+67d10200d80c3405f93783de | social_feed_2 | Does this form look suspicious? Report
+67d10200d80c3405f93783de | social_feed_2 | Google Form
+664925f5dac2a21296428a6f | social_feed_2 | share:
+66bfdc082ffe8d45b60263a6 | social_feed_1 | -share: 8, 10 | unknown-list-action
+66bfdc082ffe8d45b60263a6 | social_feed_2 | -like: 30 | unknown-list-action
+6623a12230812b46eef471a6 | social_feed_1 | 123
+6623a12230812b46eef471a6 | social_feed_2 | 234
+67e85293838498c32f421d69 | social_feed_1 | 10: the article seems misinformation | unknown-list-action
+67e85293838498c32f421d69 | social_feed_2 | 29: the article contains misinformation | unknown-list-action
+5d8998025e8a740001d6e2f1 | social_feed_1 | Ignore 1-10
+5d8998025e8a740001d6e2f1 | social_feed_2 | Ignore 1-30
+67ff882a81863323a287467e | social_feed_2 | comment post: 22, 23, 27, 29
+67eae4ce34403db149dc2dd4 | social_feed_1 | Comment-post:
+67eae4ce34403db149dc2dd4 | social_feed_2 | Add-note:
+600e13b23c75bc67ab184745 | social_feed_1 | post 4: Democrats didn't just lose the internet, they lost the country.
+670075d557d79b4cef60c761 | social_feed_1 | ignore post 2, 3, 4, 5, 6, 9
+670075d557d79b4cef60c761 | social_feed_2 | ignore post: 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 27, 28, 30
+67ed3f925d358a67d6b10ca6 | social_feed_2 | Comment post: 30,13, 14, 15,16,
+67ed3f925d358a67d6b10ca6 | social_feed_2 | Add note: 20, 26, 22,
+67e8282387a710f6404aeb35 | social_feed_1 | I will ignore: 4, 5, 6, 9
+622a42c21de0c55ba18a2acb | social_feed_1 | Don't interact with any of it.
+67d9bc26fac028fdc13b44d6 | social_feed_2 | Ignore- post:16,18,20,21,25,30
+67e5da8fcc0632cdb901af2b | social_feed_1 | comment posts 9,10
+67e5da8fcc0632cdb901af2b | social_feed_2 | comment 19,20
+67e32e6e3c45b8246a0af9fc | social_feed_1 | 1,2,3
+67e32e6e3c45b8246a0af9fc | social_feed_2 | 1,2,3
+6150f3191250f2a12a607e82 | social_feed_1 | ignore 1, 3, 6, 7, 8, 9, 10  like 4, 5
+67eab991092b76c430986172 | social_feed_1 | 1: A 27-inch display in a microwave? Unbelievable, and yet it's also great for doing multiple things at the same time. | unknown-list-action
+67eab991092b76c430986172 | social_feed_1 | 2: This is a good price for Series 10—you should definitely consider buying one right now! | unknown-list-action
+67eab991092b76c430986172 | social_feed_1 | 7: Technologies that help us sleep are exceptional. Good sleep =isgood life. | unknown-list-action
+67eab991092b76c430986172 | social_feed_1 | 10: This statement is incorrect. COVID-19 vaccines and the boosters that you get after vaccination have been proved to give you protection even if the variants, such as Omicron, are the ones causing the infection. If a person gets very sick with the coronavirus, the vaccination can still serve its function pretty well | unknown-list-action
+67f1865fd01a13d73235b647 | social_feed_1 | misinformed
+67f1865fd01a13d73235b647 | social_feed_2 | action
+606f9bca353fc36aba9ccb8b | social_feed_2 | I honestly wouldn’t interact at all.
+612b86da38f96808af7bb1da | social_feed_1 | ignore
+612b86da38f96808af7bb1da | social_feed_2 | ignore
+67acacf033444654db29a196 | social_feed_1 | 2
+67acacf033444654db29a196 | social_feed_2 | 4
+63a3375101319bb7cb39f654 | social_feed_1 | like
+63a3375101319bb7cb39f654 | social_feed_2 | share
+612c6bd26f5f81c5765989d9 | social_feed_1 | - ignore: 1, 2, 3, 4, 5, 6, 7, 8, 9,
+612c6bd26f5f81c5765989d9 | social_feed_2 | - ignore: 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28, 29, 30
+673d14561ba68f9e67eeb728 | social_feed_1 | share-post:
+673d14561ba68f9e67eeb728 | social_feed_1 | comment-post:
+673d14561ba68f9e67eeb728 | social_feed_2 | share-post:
+673d14561ba68f9e67eeb728 | social_feed_2 | comment-post:
+64ee18fad7ff63875d973306 | social_feed_1 | Like post - none
+64ee18fad7ff63875d973306 | social_feed_1 | Share post - none
+64ee18fad7ff63875d973306 | social_feed_1 | comment - none
+64ee18fad7ff63875d973306 | social_feed_1 | notes - none
+64ee18fad7ff63875d973306 | social_feed_2 | like post - none
+64ee18fad7ff63875d973306 | social_feed_2 | share post - none
+64ee18fad7ff63875d973306 | social_feed_2 | comment post - none
+64ee18fad7ff63875d973306 | social_feed_2 | notes - none
+654455ad0b76675379c66db4 | social_feed_2 | Example response:
+669eae1ac912c49d5b16c61f | social_feed_1 | Gasp emoji-post: 1 scroll past-post: 2-10
+669eae1ac912c49d5b16c61f | social_feed_2 | scroll past the rest
+66ca1f98117343c0b3e0b098 | social_feed_1 | article contains misinformation: 5, Like post-7, 10
+67e1e7ee146e905b3d4b0ad3 | social_feed_1 | comment on post 10
+67e1e7ee146e905b3d4b0ad3 | social_feed_1 | ignore post 9
+67e1e7ee146e905b3d4b0ad3 | social_feed_2 | comment on post 11,12
+67e1e7ee146e905b3d4b0ad3 | social_feed_2 | ignore  post 13,22,21
+66465999853f99e3f05d5b3a | social_feed_2 | ignore
+67d8cc0a703c167f5f7daf8b | social_feed_1 | share-post:
+67d8cc0a703c167f5f7daf8b | social_feed_1 | comment-post:
+67d8cc0a703c167f5f7daf8b | social_feed_1 | add-note:
+67d8cc0a703c167f5f7daf8b | social_feed_2 | share-post:
+67d8cc0a703c167f5f7daf8b | social_feed_2 | comment-post:
+67d8cc0a703c167f5f7daf8b | social_feed_2 | add-note:
