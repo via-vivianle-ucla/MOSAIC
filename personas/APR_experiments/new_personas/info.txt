@@ -1,0 +1,11 @@
+total humans json contains:
+(in order)
+- apr 2025 clean data w/ social feed reactions -- 401 ppl
+- pre apr 2025 clean data w/o social feed reactions -- 204 ppl
+TOTAL = 605 agents based on real humans
+
+total agents json contains:
+(in order)
+- newly generated agents apr 2025 -- 306 of them
+- old old generated agents -- 99 
+- old new generated agents -- 200
