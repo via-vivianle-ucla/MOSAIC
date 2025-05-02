@@ -1,6 +1,5 @@
 # Sensitive data
 # data/
-experiment_outputs/
 human_study/human_study_data.csv
 
 # General
