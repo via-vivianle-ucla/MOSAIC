@@ -332,7 +332,7 @@ def print_schema(schema_info: Dict[str, List[tuple]]):
             print(f"  {col_name}: {col_type} {pk_str} {null_str} {default_str}".strip())
 
 if __name__ == "__main__":
-    db_path = "/Users/genglinliu/Documents/GitHub/social-simulation/database/simulation.db"  
+    db_path = "database/simulation.db"  
     
     # Get schema information
     schema_info = get_schema_info(db_path)

@@ -16,6 +16,7 @@ from keys import OPENAI_API_KEY
 from database_manager import DatabaseManager
 from user_manager import UserManager
 
+## RUNNING THIS WILL ONLY RUN ON ONE SOCIAL FEED -- TOGGLE IN MAIN ##
 
 class ProlificReplicationExperiment:
     """
