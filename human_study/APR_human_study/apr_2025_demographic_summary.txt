@@ -1,0 +1,224 @@
+# Demographic Summary of Study Participants
+
+## Overview
+
+Total number of participants: 401
+
+## Age Distribution
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| 25-34 | 107 | 26.68% |
+| 35-44 | 103 | 25.69% |
+| 45-54 | 87 | 21.70% |
+| 55-64 | 51 | 12.72% |
+| 18-24 | 36 | 8.98% |
+| 65-74 | 16 | 3.99% |
+| 75 and older | 1 | 0.25% |
+
+![Age Distribution](demographic_plots/age_distribution.png)
+
+## Gender Distribution
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| Female | 211 | 52.62% |
+| Male | 186 | 46.38% |
+| Non-Binary | 3 | 0.75% |
+| Genderfluid | 1 | 0.25% |
+
+![Gender Distribution](demographic_plots/gender_distribution.png)
+
+## Religious Affiliation
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| Christianity | 302 | 75.31% |
+| No Religion | 59 | 14.71% |
+| Spiritual but not religious | 25 | 6.23% |
+| Buddhism | 5 | 1.25% |
+| Agnostic | 3 | 0.75% |
+| Islam | 2 | 0.50% |
+| servant of the most High God of Israel | 1 | 0.25% |
+| Jewish | 1 | 0.25% |
+| Atheist | 1 | 0.25% |
+| Pagan | 1 | 0.25% |
+| Christian and Spiritual | 1 | 0.25% |
+
+![Religious Affiliation](demographic_plots/religion_distribution.png)
+
+## Ethnic Group Distribution
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| White or Caucasian | 264 | 65.84% |
+| Black or African American | 84 | 20.95% |
+| Hispanic or Latino | 21 | 5.24% |
+| Asian | 16 | 3.99% |
+| American Indian or Alaska Native | 3 | 0.75% |
+| Asian and White | 1 | 0.25% |
+| Native Hawaiian or Other Pacific Islander | 1 | 0.25% |
+| Biracial | 1 | 0.25% |
+| Mixed | 1 | 0.25% |
+| Mixed Mexican/White | 1 | 0.25% |
+| multiracial | 1 | 0.25% |
+| mixed: Black/White | 1 | 0.25% |
+| mixed black/white | 1 | 0.25% |
+| black and white | 1 | 0.25% |
+| White / Japanese | 1 | 0.25% |
+| Mixed race | 1 | 0.25% |
+| mixed: white and black | 1 | 0.25% |
+| Black and Native American | 1 | 0.25% |
+
+![Ethnic Group Distribution](demographic_plots/ethnic_group_distribution.png)
+
+## Education Level
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| Undergraduate degree (BA/BSc/other) | 123 | 30.67% |
+| Graduate degree (MA/MSc/MPhil/other) | 116 | 28.93% |
+| High school diploma/A-levels | 82 | 20.45% |
+| Technical/community college | 43 | 10.72% |
+| Doctorate degree (PhD/other) | 31 | 7.73% |
+| Secondary education (e.g. GED/GCSE) | 5 | 1.25% |
+| No formal qualifications | 1 | 0.25% |
+
+![Education Level](demographic_plots/education_distribution.png)
+
+## Primary Language
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| English | 384 | 95.76% |
+| English, Spanish | 11 | 2.74% |
+| English, Spanish, German | 1 | 0.25% |
+| Polish | 1 | 0.25% |
+| Cantanese Chinese | 1 | 0.25% |
+| English, Swahili | 1 | 0.25% |
+| English, Korean | 1 | 0.25% |
+| Mandarin Chinese, Cantanese Chinese | 1 | 0.25% |
+
+![Primary Language](demographic_plots/primary_language_distribution.png)
+
+## Type of Residence
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| Suburban | 174 | 43.39% |
+| Urban | 164 | 40.90% |
+| Rural | 62 | 15.46% |
+| small town | 1 | 0.25% |
+
+![Type of Residence](demographic_plots/type_of_residence_distribution.png)
+
+## Income Distribution
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| $100,000 - $149,999 | 62 | 15.46% |
+| $70,000 - $79,999 | 44 | 10.97% |
+| $40,000 - $49,999 | 38 | 9.48% |
+| $30,000 - $39,999 | 36 | 8.98% |
+| $50,000 - $59,999 | 34 | 8.48% |
+| $10,000 - $19,999 | 31 | 7.73% |
+| $90,000 - $99,999 | 30 | 7.48% |
+| More than $150,000 | 28 | 6.98% |
+| Less than $10,000 | 27 | 6.73% |
+| $60,000 - $69,999 | 24 | 5.99% |
+| $20,000 - $29,999 | 22 | 5.49% |
+| $80,000 - $89,999 | 21 | 5.24% |
+| Rather not say | 4 | 1.00% |
+
+![Income Distribution](demographic_plots/income_distribution.png)
+
+## Political Stance
+
+| Value | Count | Percentage |
+|-------|-------|------------|
+| Conservative | 146 | 36.41% |
+| Very conservative | 78 | 19.45% |
+| Liberal | 67 | 16.71% |
+| Moderate | 60 | 14.96% |
+| Very liberal | 42 | 10.47% |
+| Libertarian | 5 | 1.25% |
+| Independent, lean conservative.  | 1 | 0.25% |
+| Prefer not to say | 1 | 0.25% |
+| Socialist | 1 | 0.25% |
+
+![Political Stance](demographic_plots/political_stance_distribution.png)
+
+## Demographic Cross-Tabulations
+
+### Gender vs Education
+
+| |Doctorate degree (PhD/other)|Graduate degree (MA/MSc/MPhil/other)|High school diploma/A-levels|No formal qualifications|Secondary education (e.g. GED/GCSE)|Technical/community college|Undergraduate degree (BA/BSc/other)|
+|---|---|---|---|---|---|---|---|
+| Female |6.0|34.0|18.0|0.0|0.0|14.0|28.0|
+| Genderfluid |0.0|0.0|100.0|0.0|0.0|0.0|0.0|
+| Male |10.0|24.0|23.0|1.0|2.0|8.0|33.0|
+| Non-Binary |0.0|0.0|33.0|0.0|0.0|0.0|67.0|
+
+
+### Age vs Income
+
+| |$10,000 - $19,999|$100,000 - $149,999|$20,000 - $29,999|$30,000 - $39,999|$40,000 - $49,999|$50,000 - $59,999|$60,000 - $69,999|$70,000 - $79,999|$80,000 - $89,999|$90,000 - $99,999|Less than $10,000|More than $150,000|Rather not say|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 18-24 |6.0|8.0|6.0|19.0|11.0|14.0|3.0|8.0|3.0|6.0|11.0|3.0|3.0|
+| 25-34 |7.0|17.0|7.0|7.0|10.0|12.0|6.0|13.0|3.0|7.0|7.0|5.0|0.0|
+| 35-44 |3.0|17.0|5.0|10.0|10.0|7.0|6.0|10.0|9.0|10.0|8.0|7.0|1.0|
+| 45-54 |11.0|17.0|6.0|10.0|7.0|6.0|5.0|10.0|7.0|5.0|2.0|13.0|1.0|
+| 55-64 |12.0|18.0|4.0|4.0|12.0|2.0|8.0|14.0|4.0|8.0|6.0|8.0|2.0|
+| 65-74 |12.0|0.0|6.0|0.0|6.0|19.0|19.0|6.0|0.0|19.0|12.0|0.0|0.0|
+| 75 and older |100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+
+
+### Political Stance vs Education
+
+| |Doctorate degree (PhD/other)|Graduate degree (MA/MSc/MPhil/other)|High school diploma/A-levels|No formal qualifications|Secondary education (e.g. GED/GCSE)|Technical/community college|Undergraduate degree (BA/BSc/other)|
+|---|---|---|---|---|---|---|---|
+| Conservative |7.0|33.0|16.0|1.0|3.0|11.0|29.0|
+| Independent, lean conservative.  |0.0|0.0|0.0|0.0|0.0|100.0|0.0|
+| Liberal |6.0|27.0|15.0|0.0|1.0|9.0|42.0|
+| Libertarian |0.0|20.0|60.0|0.0|0.0|20.0|0.0|
+| Moderate |10.0|17.0|30.0|0.0|0.0|17.0|27.0|
+| Prefer not to say |0.0|0.0|100.0|0.0|0.0|0.0|0.0|
+| Socialist |100.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Very conservative |6.0|32.0|26.0|0.0|0.0|5.0|31.0|
+| Very liberal |12.0|33.0|14.0|0.0|0.0|12.0|29.0|
+
+
+### Ethnic Group vs Income
+
+| |$10,000 - $19,999|$100,000 - $149,999|$20,000 - $29,999|$30,000 - $39,999|$40,000 - $49,999|$50,000 - $59,999|$60,000 - $69,999|$70,000 - $79,999|$80,000 - $89,999|$90,000 - $99,999|Less than $10,000|More than $150,000|Rather not say|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| American Indian or Alaska Native |0.0|0.0|0.0|33.0|0.0|0.0|0.0|33.0|0.0|0.0|33.0|0.0|0.0|
+| Asian |6.0|6.0|6.0|12.0|6.0|6.0|12.0|0.0|12.0|19.0|6.0|6.0|0.0|
+| Asian and White |100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Biracial |100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Black and Native American |0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|100.0|0.0|
+| Black or African American |4.0|21.0|6.0|8.0|13.0|14.0|5.0|12.0|1.0|4.0|8.0|4.0|0.0|
+| Hispanic or Latino |10.0|19.0|10.0|10.0|5.0|5.0|14.0|0.0|0.0|10.0|5.0|10.0|5.0|
+| Mixed |0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Mixed Mexican/White |100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Mixed race |100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| Native Hawaiian or Other Pacific Islander |0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|100.0|0.0|0.0|
+| White / Japanese |0.0|0.0|0.0|0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| White or Caucasian |8.0|14.0|4.0|9.0|9.0|7.0|6.0|12.0|7.0|8.0|6.0|8.0|1.0|
+| black and white |0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| mixed black/white |0.0|0.0|0.0|0.0|0.0|0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|
+| mixed: Black/White |0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| mixed: white and black |0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+| multiracial |0.0|0.0|0.0|0.0|100.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+
+
+## Summary Insights
+
+Based on the demographic data analysis:
+
+- The most common age group is 25-34 (26.7% of participants)
+- Females make up 52.6% of the participant pool
+- The most common education level is Undergraduate degree (BA/BSc/other) (30.7%)
+- Suburban areas are where 43.4% of participants reside
+- The most common political stance is Conservative (36.4%)
+- The ethnic diversity index of the sample is 0.52 (0=homogeneous, 1=diverse)
