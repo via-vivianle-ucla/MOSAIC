@@ -12,24 +12,25 @@ def load_jsonl(file_path):
 
 
 # Load all datasets
-agent_reactions_1 = load_jsonl('agent_reactions_feed_1_by_user.jsonl')
-# agent_reactions_2 = load_jsonl('agent_reactions_feed_2_by_user.jsonl')
-human_reactions_1 = load_jsonl('human_reactions_feed_1_cleaned.jsonl')
-# human_reactions_2 = load_jsonl('human_reactions_feed_2_cleaned.jsonl')
+# agent_reactions_1 = load_jsonl('agent_reactions_feed_1_by_user.jsonl')
+agent_reactions_2 = load_jsonl('agent_reactions_feed_2_by_user.jsonl')
+# human_reactions_1 = load_jsonl('human_reactions_feed_1_cleaned.jsonl')
+human_reactions_2 = load_jsonl('human_reactions_feed_2_cleaned.jsonl')
 
 # Combine datasets
 # agent_reactions = pd.concat([agent_reactions_1, agent_reactions_2])
 # human_reactions = pd.concat([human_reactions_1, human_reactions_2])
 
-agent_reactions = pd.concat([agent_reactions_1])
-human_reactions = pd.concat([human_reactions_1])
+agent_reactions = pd.concat([agent_reactions_2])
+human_reactions = pd.concat([human_reactions_2])
 
 # After loading the data, add:
-print(f"Feed 1 samples: {len(human_reactions_1)} human, {len(agent_reactions_1)} agent")
+# print(f"Feed 1 samples: {len(human_reactions_1)} human, {len(agent_reactions_1)} agent")
 # print(f"Feed 2 samples: {len(human_reactions_2)} human, {len(agent_reactions_2)} agent")
 # print(f"Total pairs: {len(human_reactions_1) + len(human_reactions_2)}")
 
-print(f"Total pairs: {len(human_reactions_1)}")
+print(f"Feed 2 samples: {len(human_reactions_2)} human, {len(agent_reactions_2)} agent")
+print(f"Total pairs: {len(human_reactions_2)}")
 
 def analyze_post_engagement(df):
     """Analyze how many likes/shares/comments each post received"""
@@ -127,7 +128,7 @@ for i in x:
              ha='right', va='bottom', fontsize=FONT_SIZE-5)
 
 plt.tight_layout()
-plt.savefig('post_engagement_comparison.pdf', dpi=300, bbox_inches='tight')
+plt.savefig('FEED2_post_engagement_comparison.pdf', dpi=300, bbox_inches='tight')
 
 # Statistical comparison
 print("\nStatistical Comparison (t-test):")

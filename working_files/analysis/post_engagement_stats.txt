@@ -1,0 +1,116 @@
+### ALL Feed 1 + Feed 2 ###
+
+Feed 1 samples: 605 human, 605 agent
+Feed 2 samples: 605 human, 605 agent
+Total pairs: 1210
+
+HUMAN POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 38.46 (±53.83)
+Average shares: 16.99 (±24.41)
+Average comments: 8.51 (±13.93)
+
+AGENT POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 16.42 (±36.12)
+Average shares: 4.62 (±8.91)
+Average comments: 23.27 (±52.03)
+
+Example targets from human posts:
+['post-3fa5ef', 'post-a02de3', 'post-9e09d3', 'post-a41a79', 'post-b50e43']
+
+Example targets from agent posts:
+['post-e7bb58', 'post-c31764', 'post-a41a79', 'post-3fa5ef', 'post-b50e43']
+
+Statistical Comparison (t-test):
+
+Likes:
+t-statistic: 2.4166
+p-value: 0.0173
+
+Shares:
+t-statistic: 3.2564
+p-value: 0.0015
+
+Comments:
+t-statistic: -2.2546
+p-value: 0.0261
+
+### FEED 1 ONLY ###
+
+Feed 1 samples: 605 human, 605 agent
+Total pairs: 605
+
+HUMAN POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 31.03 (±56.11)
+Average shares: 13.42 (±25.15)
+Average comments: 6.83 (±13.25)
+
+AGENT POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 16.19 (±38.91)
+Average shares: 4.81 (±11.04)
+Average comments: 23.71 (±44.64)
+
+Example targets from human posts:
+['post-3fa5ef', 'post-a02de3', 'post-9e09d3', 'post-a41a79', 'post-b50e43']
+
+Example targets from agent posts:
+['post-e7bb58', 'post-c31764', 'post-a41a79', 'post-3fa5ef', 'post-b50e43']
+
+Statistical Comparison (t-test):
+
+Likes:
+t-statistic: 1.0692
+p-value: 0.2896
+
+Shares:
+t-statistic: 1.4829
+p-value: 0.1438
+
+Comments:
+t-statistic: -2.1257
+p-value: 0.0380
+
+### FEED 2 ONLY ###
+Feed 2 samples: 605 human, 605 agent
+Total pairs: 605
+
+HUMAN POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 35.80 (±48.46)
+Average shares: 16.05 (±22.26)
+Average comments: 7.95 (±13.29)
+
+AGENT POSTS RECEIVED:
+
+Average engagement per post:
+Average likes: 16.62 (±34.34)
+Average shares: 4.46 (±6.78)
+Average comments: 22.88 (±58.70)
+
+Example targets from human posts:
+['post-ddbcb2', 'post-1718ae', 'post-0e91a2', 'post-cca0c0', 'post-c890f0']
+
+Example targets from agent posts:
+['post-ddbcb2', 'post-c890f0', 'post-1718ae', 'post-bd8ac4', 'post-0e91a2']
+
+Statistical Comparison (t-test):
+
+Likes:
+t-statistic: 1.7147
+p-value: 0.0911
+
+Shares:
+t-statistic: 2.4809
+p-value: 0.0157
+
+Comments:
+t-statistic: -1.6208
+p-value: 0.1098
