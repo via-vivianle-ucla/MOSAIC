@@ -1,0 +1,576 @@
+Statistical Test Results: Human vs Agent Engagement by Demographic
+==================================================================
+
+
+
+=== Analysis for attribute: age ===
+Found 7 unique values: ['18-24' '25-34' '35-44' '65-74' '45-54' '55-64' '75 and older']
+
+--- Analysis for age: 18-24 ---
+Number of humans in this group: 114
+Number of agents in this group: 0
+Insufficient data for age = 18-24
+
+--- Analysis for age: 25-34 ---
+Number of humans in this group: 318
+Number of agents in this group: 0
+Insufficient data for age = 25-34
+
+--- Analysis for age: 35-44 ---
+Number of humans in this group: 358
+Number of agents in this group: 0
+Insufficient data for age = 35-44
+
+--- Analysis for age: 65-74 ---
+Number of humans in this group: 46
+Number of agents in this group: 0
+Insufficient data for age = 65-74
+
+--- Analysis for age: 45-54 ---
+Number of humans in this group: 222
+Number of agents in this group: 0
+Insufficient data for age = 45-54
+
+--- Analysis for age: 55-64 ---
+Number of humans in this group: 154
+Number of agents in this group: 0
+Insufficient data for age = 55-64
+
+--- Analysis for age: 75 and older ---
+Number of humans in this group: 6
+Number of agents in this group: 0
+Insufficient data for age = 75 and older
+
+
+=== Analysis for attribute: gender ===
+Found 5 unique values: ['Male' 'Female' 'Non-Binary' 'Genderfluid' 'Bi-gender']
+
+--- Analysis for gender: Male ---
+Number of humans in this group: 566
+Number of agents in this group: 586
+
+Average engagement per post:
+Human average likes: 25.02
+Agent average likes: 9.73
+Human average shares: 11.39
+Agent average shares: 2.57
+Human average comments: 6.29
+Agent average comments: 13.84
+
+Statistical Comparison (t-test):
+Likes: t=3.1145, p=0.0025 **
+Shares: t=4.5697, p=0.0000 ***
+Comments: t=-1.6098, p=0.1153 ns
+
+--- Analysis for gender: Female ---
+Number of humans in this group: 636
+Number of agents in this group: 580
+
+Average engagement per post:
+Human average likes: 29.16
+Agent average likes: 9.05
+Human average shares: 12.40
+Agent average shares: 2.62
+Human average comments: 5.76
+Agent average comments: 12.74
+
+Statistical Comparison (t-test):
+Likes: t=3.8418, p=0.0002 ***
+Shares: t=4.7199, p=0.0000 ***
+Comments: t=-1.6202, p=0.1124 ns
+
+--- Analysis for gender: Non-Binary ---
+Number of humans in this group: 12
+Number of agents in this group: 0
+Insufficient data for gender = Non-Binary
+
+--- Analysis for gender: Genderfluid ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for gender = Genderfluid
+
+--- Analysis for gender: Bi-gender ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for gender = Bi-gender
+
+
+=== Analysis for attribute: religion ===
+Found 14 unique values: ['Buddhism' 'Christianity' 'Spiritual but not religious' 'No Religion'
+ 'Agnostic' 'servant of the most High God of Israel' 'Jewish' 'Atheist'
+ 'Islam' 'Pagan' 'Christian and Spiritual' 'Other Christian ' 'Hinduism'
+ 'Apathiest']
+
+--- Analysis for religion: Buddhism ---
+Number of humans in this group: 14
+Number of agents in this group: 0
+Insufficient data for religion = Buddhism
+
+--- Analysis for religion: Christianity ---
+Number of humans in this group: 790
+Number of agents in this group: 0
+Insufficient data for religion = Christianity
+
+--- Analysis for religion: Spiritual but not religious ---
+Number of humans in this group: 90
+Number of agents in this group: 296
+
+Average engagement per post:
+Human average likes: 5.27
+Agent average likes: 5.56
+Human average shares: 1.67
+Agent average shares: 1.71
+Human average comments: 0.87
+Agent average comments: 7.44
+
+Statistical Comparison (t-test):
+Likes: t=-0.1522, p=0.8798 ns
+Shares: t=-0.0725, p=0.9424 ns
+Comments: t=-2.6523, p=0.0120 *
+
+--- Analysis for religion: No Religion ---
+Number of humans in this group: 268
+Number of agents in this group: 0
+Insufficient data for religion = No Religion
+
+--- Analysis for religion: Agnostic ---
+Number of humans in this group: 6
+Number of agents in this group: 202
+
+Average engagement per post:
+Human average likes: 1.09
+Agent average likes: 4.00
+Human average shares: 0.45
+Agent average shares: 0.94
+Human average comments: 0.27
+Agent average comments: 5.45
+
+Statistical Comparison (t-test):
+Likes: t=-2.3884, p=0.0233 *
+Shares: t=-1.3449, p=0.1864 ns
+Comments: t=-2.9449, p=0.0061 **
+
+--- Analysis for religion: servant of the most High God of Israel ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for religion = servant of the most High God of Israel
+
+--- Analysis for religion: Jewish ---
+Number of humans in this group: 12
+Number of agents in this group: 0
+Insufficient data for religion = Jewish
+
+--- Analysis for religion: Atheist ---
+Number of humans in this group: 2
+Number of agents in this group: 210
+
+Average engagement per post:
+Human average likes: 0.75
+Agent average likes: 3.94
+Human average shares: 0.50
+Agent average shares: 1.26
+Human average comments: 0.00
+Agent average comments: 5.77
+
+Statistical Comparison (t-test):
+Likes: t=-2.6530, p=0.0125 *
+Shares: t=-1.6899, p=0.0995 ns
+Comments: t=-3.2056, p=0.0032 **
+
+--- Analysis for religion: Islam ---
+Number of humans in this group: 20
+Number of agents in this group: 0
+Insufficient data for religion = Islam
+
+--- Analysis for religion: Pagan ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for religion = Pagan
+
+--- Analysis for religion: Christian and Spiritual ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for religion = Christian and Spiritual
+
+--- Analysis for religion: Other Christian  ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for religion = Other Christian 
+
+--- Analysis for religion: Hinduism ---
+Number of humans in this group: 6
+Number of agents in this group: 0
+Insufficient data for religion = Hinduism
+
+--- Analysis for religion: Apathiest ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for religion = Apathiest
+
+
+=== Analysis for attribute: ethnic_group ===
+Found 25 unique values: ['Asian' 'Black or African American' 'White or Caucasian'
+ 'Hispanic or Latino' 'Native Hawaiian or Other Pacific Islander'
+ 'Biracial' 'Mixed' 'Mixed Mexican/White' 'multiracial' 'Asian and White'
+ 'American Indian or Alaska Native' 'mixed: white and black'
+ 'mixed black/white' 'mixed: Black/White' 'black and white'
+ 'White / Japanese' 'Mixed race' 'Black and Native American' 'MIxed'
+ 'African American/Cuban/Native American/Jamaican' 'White/Hispanic'
+ 'you are forgetting Middle Eastern North African' 'biracial'
+ 'Indian/Native American' 'Mixed ']
+
+--- Analysis for ethnic_group: Asian ---
+Number of humans in this group: 72
+Number of agents in this group: 190
+
+Average engagement per post:
+Human average likes: 3.03
+Agent average likes: 3.79
+Human average shares: 1.32
+Agent average shares: 1.11
+Human average comments: 0.71
+Agent average comments: 5.96
+
+Statistical Comparison (t-test):
+Likes: t=-0.5532, p=0.5837 ns
+Shares: t=0.5574, p=0.5801 ns
+Comments: t=-2.8377, p=0.0084 **
+
+--- Analysis for ethnic_group: Black or African American ---
+Number of humans in this group: 204
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Black or African American
+
+--- Analysis for ethnic_group: White or Caucasian ---
+Number of humans in this group: 828
+Number of agents in this group: 0
+Insufficient data for ethnic_group = White or Caucasian
+
+--- Analysis for ethnic_group: Hispanic or Latino ---
+Number of humans in this group: 64
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Hispanic or Latino
+
+--- Analysis for ethnic_group: Native Hawaiian or Other Pacific Islander ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Native Hawaiian or Other Pacific Islander
+
+--- Analysis for ethnic_group: Biracial ---
+Number of humans in this group: 4
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Biracial
+
+--- Analysis for ethnic_group: Mixed ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Mixed
+
+--- Analysis for ethnic_group: Mixed Mexican/White ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Mixed Mexican/White
+
+--- Analysis for ethnic_group: multiracial ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = multiracial
+
+--- Analysis for ethnic_group: Asian and White ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Asian and White
+
+--- Analysis for ethnic_group: American Indian or Alaska Native ---
+Number of humans in this group: 8
+Number of agents in this group: 0
+Insufficient data for ethnic_group = American Indian or Alaska Native
+
+--- Analysis for ethnic_group: mixed: white and black ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = mixed: white and black
+
+--- Analysis for ethnic_group: mixed black/white ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = mixed black/white
+
+--- Analysis for ethnic_group: mixed: Black/White ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = mixed: Black/White
+
+--- Analysis for ethnic_group: black and white ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = black and white
+
+--- Analysis for ethnic_group: White / Japanese ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = White / Japanese
+
+--- Analysis for ethnic_group: Mixed race ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Mixed race
+
+--- Analysis for ethnic_group: Black and Native American ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Black and Native American
+
+--- Analysis for ethnic_group: MIxed ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = MIxed
+
+--- Analysis for ethnic_group: African American/Cuban/Native American/Jamaican ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = African American/Cuban/Native American/Jamaican
+
+--- Analysis for ethnic_group: White/Hispanic ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = White/Hispanic
+
+--- Analysis for ethnic_group: you are forgetting Middle Eastern North African ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = you are forgetting Middle Eastern North African
+
+--- Analysis for ethnic_group: biracial ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = biracial
+
+--- Analysis for ethnic_group: Indian/Native American ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Indian/Native American
+
+--- Analysis for ethnic_group: Mixed  ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for ethnic_group = Mixed 
+
+
+=== Analysis for attribute: education ===
+Found 7 unique values: ['High school diploma/A-levels' 'Undergraduate degree (BA/BSc/other)'
+ 'Graduate degree (MA/MSc/MPhil/other)' 'Doctorate degree (PhD/other)'
+ 'Technical/community college' 'Secondary education (e.g. GED/GCSE)'
+ 'No formal qualifications']
+
+--- Analysis for education: High school diploma/A-levels ---
+Number of humans in this group: 260
+Number of agents in this group: 0
+Insufficient data for education = High school diploma/A-levels
+
+--- Analysis for education: Undergraduate degree (BA/BSc/other) ---
+Number of humans in this group: 394
+Number of agents in this group: 0
+Insufficient data for education = Undergraduate degree (BA/BSc/other)
+
+--- Analysis for education: Graduate degree (MA/MSc/MPhil/other) ---
+Number of humans in this group: 298
+Number of agents in this group: 0
+Insufficient data for education = Graduate degree (MA/MSc/MPhil/other)
+
+--- Analysis for education: Doctorate degree (PhD/other) ---
+Number of humans in this group: 86
+Number of agents in this group: 0
+Insufficient data for education = Doctorate degree (PhD/other)
+
+--- Analysis for education: Technical/community college ---
+Number of humans in this group: 152
+Number of agents in this group: 0
+Insufficient data for education = Technical/community college
+
+--- Analysis for education: Secondary education (e.g. GED/GCSE) ---
+Number of humans in this group: 26
+Number of agents in this group: 0
+Insufficient data for education = Secondary education (e.g. GED/GCSE)
+
+--- Analysis for education: No formal qualifications ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for education = No formal qualifications
+
+
+=== Analysis for attribute: income ===
+Found 13 unique values: ['$50,000 - $59,999' 'Less than $10,000' '$70,000 - $79,999'
+ '$90,000 - $99,999' '$10,000 - $19,999' '$40,000 - $49,999'
+ '$100,000 - $149,999' '$30,000 - $39,999' '$20,000 - $29,999'
+ 'More than $150,000' '$60,000 - $69,999' '$80,000 - $89,999'
+ 'Rather not say']
+
+--- Analysis for income: $50,000 - $59,999 ---
+Number of humans in this group: 108
+Number of agents in this group: 0
+Insufficient data for income = $50,000 - $59,999
+
+--- Analysis for income: Less than $10,000 ---
+Number of humans in this group: 122
+Number of agents in this group: 0
+Insufficient data for income = Less than $10,000
+
+--- Analysis for income: $70,000 - $79,999 ---
+Number of humans in this group: 114
+Number of agents in this group: 0
+Insufficient data for income = $70,000 - $79,999
+
+--- Analysis for income: $90,000 - $99,999 ---
+Number of humans in this group: 76
+Number of agents in this group: 0
+Insufficient data for income = $90,000 - $99,999
+
+--- Analysis for income: $10,000 - $19,999 ---
+Number of humans in this group: 98
+Number of agents in this group: 0
+Insufficient data for income = $10,000 - $19,999
+
+--- Analysis for income: $40,000 - $49,999 ---
+Number of humans in this group: 92
+Number of agents in this group: 0
+Insufficient data for income = $40,000 - $49,999
+
+--- Analysis for income: $100,000 - $149,999 ---
+Number of humans in this group: 178
+Number of agents in this group: 0
+Insufficient data for income = $100,000 - $149,999
+
+--- Analysis for income: $30,000 - $39,999 ---
+Number of humans in this group: 114
+Number of agents in this group: 0
+Insufficient data for income = $30,000 - $39,999
+
+--- Analysis for income: $20,000 - $29,999 ---
+Number of humans in this group: 80
+Number of agents in this group: 0
+Insufficient data for income = $20,000 - $29,999
+
+--- Analysis for income: More than $150,000 ---
+Number of humans in this group: 82
+Number of agents in this group: 0
+Insufficient data for income = More than $150,000
+
+--- Analysis for income: $60,000 - $69,999 ---
+Number of humans in this group: 84
+Number of agents in this group: 0
+Insufficient data for income = $60,000 - $69,999
+
+--- Analysis for income: $80,000 - $89,999 ---
+Number of humans in this group: 54
+Number of agents in this group: 0
+Insufficient data for income = $80,000 - $89,999
+
+--- Analysis for income: Rather not say ---
+Number of humans in this group: 16
+Number of agents in this group: 0
+Insufficient data for income = Rather not say
+
+
+=== Analysis for attribute: political_stance ===
+Found 10 unique values: ['Liberal' 'Very conservative' 'Conservative' 'Moderate' 'Very liberal'
+ 'Libertarian' 'Independent, lean conservative. ' 'Prefer not to say'
+ 'Socialist' 'I do not vote, because it would make no difference.']
+
+--- Analysis for political_stance: Liberal ---
+Number of humans in this group: 230
+Number of agents in this group: 228
+
+Average engagement per post:
+Human average likes: 12.02
+Agent average likes: 4.19
+Human average shares: 6.59
+Agent average shares: 1.38
+Human average comments: 3.12
+Agent average comments: 6.25
+
+Statistical Comparison (t-test):
+Likes: t=3.3467, p=0.0013 **
+Shares: t=5.0762, p=0.0000 ***
+Comments: t=-1.5249, p=0.1362 ns
+
+--- Analysis for political_stance: Very conservative ---
+Number of humans in this group: 206
+Number of agents in this group: 0
+Insufficient data for political_stance = Very conservative
+
+--- Analysis for political_stance: Conservative ---
+Number of humans in this group: 390
+Number of agents in this group: 214
+
+Average engagement per post:
+Human average likes: 25.64
+Agent average likes: 3.94
+Human average shares: 11.07
+Agent average shares: 0.94
+Human average comments: 4.70
+Agent average comments: 5.62
+
+Statistical Comparison (t-test):
+Likes: t=6.0545, p=0.0000 ***
+Shares: t=6.4908, p=0.0000 ***
+Comments: t=-0.4419, p=0.6606 ns
+
+--- Analysis for political_stance: Moderate ---
+Number of humans in this group: 186
+Number of agents in this group: 260
+
+Average engagement per post:
+Human average likes: 8.70
+Agent average likes: 4.91
+Human average shares: 2.36
+Agent average shares: 1.32
+Human average comments: 1.39
+Agent average comments: 6.38
+
+Statistical Comparison (t-test):
+Likes: t=2.0357, p=0.0463 *
+Shares: t=2.0955, p=0.0401 *
+Comments: t=-2.4779, p=0.0181 *
+
+--- Analysis for political_stance: Very liberal ---
+Number of humans in this group: 178
+Number of agents in this group: 0
+Insufficient data for political_stance = Very liberal
+
+--- Analysis for political_stance: Libertarian ---
+Number of humans in this group: 16
+Number of agents in this group: 260
+
+Average engagement per post:
+Human average likes: 0.75
+Agent average likes: 4.97
+Human average shares: 0.40
+Agent average shares: 1.47
+Human average comments: 0.20
+Agent average comments: 7.16
+
+Statistical Comparison (t-test):
+Likes: t=-2.6871, p=0.0114 *
+Shares: t=-2.5482, p=0.0153 *
+Comments: t=-2.9234, p=0.0064 **
+
+--- Analysis for political_stance: Independent, lean conservative.  ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for political_stance = Independent, lean conservative. 
+
+--- Analysis for political_stance: Prefer not to say ---
+Number of humans in this group: 6
+Number of agents in this group: 0
+Insufficient data for political_stance = Prefer not to say
+
+--- Analysis for political_stance: Socialist ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for political_stance = Socialist
+
+--- Analysis for political_stance: I do not vote, because it would make no difference. ---
+Number of humans in this group: 2
+Number of agents in this group: 0
+Insufficient data for political_stance = I do not vote, because it would make no difference.

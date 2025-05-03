@@ -1,0 +1,38 @@
+Summary of Differences in Human vs Agent Engagement Patterns
+=================================================================
+
+Using criteria: A demographic group is considered 'significantly different'
+if TWO OR MORE engagement types (likes, shares, comments) show significant differences (p < 0.05).
+
+1. Demographic Groups with SIGNIFICANT Differences (1+ types):
+----------------------------------------------------------------
+- gender = Male shows significant differences in likes, shares (non-significant in comments)
+- gender = Female shows significant differences in likes, shares (non-significant in comments)
+- religion = Spiritual but not religious shows significant differences in comments (non-significant in likes, shares)
+- religion = Agnostic shows significant differences in likes, comments (non-significant in shares)
+- religion = Atheist shows significant differences in likes, comments (non-significant in shares)
+- ethnic_group = Asian shows significant differences in comments (non-significant in likes, shares)
+- political_stance = Liberal shows significant differences in likes, shares (non-significant in comments)
+- political_stance = Conservative shows significant differences in likes, shares (non-significant in comments)
+- political_stance = Moderate shows significant differences in likes, shares, comments
+- political_stance = Libertarian shows significant differences in likes, shares, comments
+
+
+2. Demographic Groups with NON-SIGNIFICANT Results (0-1 types):
+-----------------------------------------------
+All tested demographic groups showed significant differences in at least one engagement type.
+
+
+Overall Summary:
+--------------
+Total demographic groups analyzed: 10
+Groups with SIGNIFICANT differences (1+ types): 10
+Groups with NON-SIGNIFICANT differences (0-1 types): 0
+
+
+Criteria for Significance:
+----------------------
+- 'Significant difference': p < 0.05 in statistical comparison between human and agent engagement
+- A demographic group is considered 'significantly different' if TWO OR MORE engagement types
+  (out of likes, shares, and comments) show statistically significant differences
+- Otherwise, the group is considered 'non-significant' if it has 0-1 significant engagement types

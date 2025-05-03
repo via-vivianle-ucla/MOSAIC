@@ -1,0 +1,11 @@
+attribute,value,n_humans,n_agents,likes_t,likes_p,likes_sig,likes_human_mean,likes_agent_mean,shares_t,shares_p,shares_sig,shares_human_mean,shares_agent_mean,comments_t,comments_p,comments_sig,comments_human_mean,comments_agent_mean
+gender,Male,566,586,3.114,0.003,**,25.02,9.73,4.57,0.0,***,11.388,2.568,-1.61,0.115,ns,6.286,13.838
+gender,Female,636,580,3.842,0.0,***,29.16,9.051,4.72,0.0,***,12.4,2.615,-1.62,0.112,ns,5.76,12.744
+religion,Spiritual but not religious,90,296,-0.152,0.88,ns,5.267,5.559,-0.073,0.942,ns,1.667,1.706,-2.652,0.012,*,0.867,7.441
+religion,Agnostic,6,202,-2.388,0.023,*,1.091,4.0,-1.345,0.186,ns,0.455,0.935,-2.945,0.006,**,0.273,5.452
+religion,Atheist,2,210,-2.653,0.012,*,0.75,3.935,-1.69,0.099,ns,0.5,1.258,-3.206,0.003,**,0.0,5.774
+ethnic_group,Asian,72,190,-0.553,0.584,ns,3.029,3.786,0.557,0.58,ns,1.324,1.107,-2.838,0.008,**,0.706,5.964
+political_stance,Liberal,230,228,3.347,0.001,**,12.024,4.188,5.076,0.0,***,6.585,1.375,-1.525,0.136,ns,3.122,6.25
+political_stance,Conservative,390,214,6.055,0.0,***,25.636,3.941,6.491,0.0,***,11.068,0.941,-0.442,0.661,ns,4.705,5.618
+political_stance,Moderate,186,260,2.036,0.046,*,8.697,4.912,2.095,0.04,*,2.364,1.324,-2.478,0.018,*,1.394,6.382
+political_stance,Libertarian,16,260,-2.687,0.011,*,0.75,4.969,-2.548,0.015,*,0.4,1.469,-2.923,0.006,**,0.2,7.156

@@ -8,7 +8,7 @@ import os
 from tabulate import tabulate
 
 # Create results directory if it doesn't exist
-os.makedirs('experiment_outputs/prolific_replication/results', exist_ok=True)
+os.makedirs('results', exist_ok=True)
 
 # Load the JSON Lines files into pandas DataFrames
 def load_jsonl(file_path):
@@ -16,13 +16,31 @@ def load_jsonl(file_path):
         return pd.DataFrame([json.loads(line) for line in f])
 
 # Load reaction data
-agent_reactions_1 = load_jsonl('experiment_outputs/prolific_replication/agent_reactions_feed_1.jsonl')
-agent_reactions_2 = load_jsonl('experiment_outputs/prolific_replication/agent_reactions_feed_2.jsonl')
-human_reactions_1 = load_jsonl('experiment_outputs/prolific_replication/human_reactions_feed_1.jsonl')
-human_reactions_2 = load_jsonl('experiment_outputs/prolific_replication/human_reactions_feed_2.jsonl')
+agent_reactions_1 = load_jsonl('agent_reactions_feed_1_by_user.jsonl')
+agent_reactions_2 = load_jsonl('agent_reactions_feed_2_by_user.jsonl')
+human_reactions_1 = load_jsonl('human_reactions_feed_1_cleaned.jsonl')
+human_reactions_2 = load_jsonl('human_reactions_feed_2_cleaned.jsonl')
 
 # Load demographic data
-human_demographics = load_jsonl('experiment_outputs/prolific_replication/human_reactions.jsonl')
+human_demographics = load_jsonl('human_cleaned.jsonl')
+agent_demographics1 = pd.read_json("agents_aligned_demographics.jsonl", lines=True)
+agent_demographics2 = pd.read_json("agents_aligned_demographics2.jsonl", lines=True)
+
+# normalizing
+agent_demographics1 = agent_demographics1.rename(columns={"religious_beliefs": "religion"})
+agent_demographics2 = agent_demographics2.rename(columns={"religious_beliefs": "religion"})
+
+agent_demographics1 = agent_demographics1.rename(columns={"ethnicity": "ethnic_group"})
+agent_demographics2 = agent_demographics2.rename(columns={"ethnicity": "ethnic_group"})
+
+agent_demographics1 = agent_demographics1.rename(columns={"education_level": "education"})
+agent_demographics2 = agent_demographics2.rename(columns={"education_level": "education"})
+
+agent_demographics1 = agent_demographics1.rename(columns={"income_level": "income"})
+agent_demographics2 = agent_demographics2.rename(columns={"income_level": "income"})
+
+agent_demographics1 = agent_demographics1.rename(columns={"political_affiliation": "political_stance"})
+agent_demographics2 = agent_demographics2.rename(columns={"political_affiliation": "political_stance"})
 
 print(f"Feed 1 samples: {len(human_reactions_1)} human, {len(agent_reactions_1)} agent")
 print(f"Feed 2 samples: {len(human_reactions_2)} human, {len(agent_reactions_2)} agent")
@@ -30,20 +48,31 @@ print(f"Total pairs: {len(human_reactions_1) + len(human_reactions_2)}")
 print(f"Human demographic entries: {len(human_demographics)}")
 
 # Combine reactions from both feeds
-agent_reactions = pd.concat([agent_reactions_1, agent_reactions_2])
 human_reactions_1['feed'] = 'feed_1'
 human_reactions_2['feed'] = 'feed_2'
 human_reactions = pd.concat([human_reactions_1, human_reactions_2])
 
 # Merge reactions with demographic data using prolific_id
 human_data = pd.merge(human_reactions, human_demographics, on='prolific_id', how='inner')
-agent_data = pd.merge(agent_reactions, human_demographics, on='prolific_id', how='inner')
+
+# AGENTS is done a little differently
+agent_reactions_1['feed'] = 'feed_1'
+agent_reactions_2['feed'] = 'feed_2'
+
+agent_data_1 = pd.merge(agent_reactions_1, agent_demographics1, on="prolific_id", how="inner")
+agent_data_2 = pd.merge(agent_reactions_2, agent_demographics2, on="prolific_id", how="inner")
+
+agent_data = pd.concat([agent_data_1, agent_data_2])
 
 print(f"Merged human data entries: {len(human_data)}")
 print(f"Merged agent data entries: {len(agent_data)}")
 
+print("Sample human actions:", human_data["actions"].iloc[0] if len(human_data) > 0 else "None")
+print("Sample agent actions:", agent_data["actions"].iloc[0] if len(agent_data) > 0 else "None")
+
+
 # Create raw text file to store statistical results
-raw_stats_file = 'experiment_outputs/prolific_replication/results/raw_statistical_results.txt'
+raw_stats_file = 'results/raw_statistical_results.txt'
 with open(raw_stats_file, 'w') as f:
     f.write("Statistical Test Results: Human vs Agent Engagement by Demographic\n")
     f.write("==================================================================\n\n")
@@ -265,7 +294,7 @@ def visualize_comparison(human_means, agent_means, human_sems, agent_sems, attri
     # Save the figure - create a safe filename
     safe_value = str(value).replace('/', '_').replace(' ', '_').replace('\\', '_')
     safe_value = ''.join(c for c in safe_value if c.isalnum() or c in '_-')
-    plt.savefig(f'experiment_outputs/prolific_replication/results/engagement_{attribute}_{safe_value}.pdf', 
+    plt.savefig(f'results/engagement_{attribute}_{safe_value}.pdf', 
                 dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -304,7 +333,7 @@ if all_stats_results:
         df_summary[col] = df_summary[col].round(3)
     
     # Save full results to CSV
-    df_summary.to_csv('experiment_outputs/prolific_replication/results/statistical_results_full.csv', index=False)
+    df_summary.to_csv('results/statistical_results_full.csv', index=False)
     
     # Create a more readable summary table
     summary_table = []
@@ -344,7 +373,7 @@ if all_stats_results:
     ]
     
     # Save formatted table to text file
-    with open('experiment_outputs/prolific_replication/results/statistical_results_summary.txt', 'w') as f:
+    with open('results/statistical_results_summary.txt', 'w') as f:
         f.write("Statistical Test Results Summary: Human vs Agent Engagement by Demographic\n")
         f.write("=====================================================================\n\n")
         f.write(tabulate(summary_table, headers=headers, tablefmt="grid"))
@@ -407,7 +436,7 @@ if all_stats_results:
                 nonsignificant_findings.append(f"{attr_value} shows no significant differences in any engagement type")
     
     # Save summary to text file
-    with open('experiment_outputs/prolific_replication/results/significant_findings_summary.txt', 'w') as f:
+    with open('results/significant_findings_summary.txt', 'w') as f:
         f.write("Summary of Differences in Human vs Agent Engagement Patterns\n")
         f.write("=================================================================\n\n")
         f.write("Using criteria: A demographic group is considered 'significantly different'\n")
