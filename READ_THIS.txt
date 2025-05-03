@@ -26,6 +26,10 @@ Most important thing: /working_files part has all results of interest
         - demographic_plots
             - all demographic breakdowns HERE
 
+        USEFUL:
+        - APR_human_study/apr_cleaning_human_data/rejected_lines.txt
+        - this has data that was 'skipped' or excluded for bad format, invalid actions, etc.
+
 /personas
     - / APR_experiments
         - /new_personas
